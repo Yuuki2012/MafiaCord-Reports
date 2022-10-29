@@ -1,1 +1,1 @@
-"# MafiaCord-Reports" 
+# MafiaCord-Reports
